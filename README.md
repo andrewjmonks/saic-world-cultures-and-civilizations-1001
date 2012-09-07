@@ -12,43 +12,41 @@ You can find the most recent version of this document [on Github](http://andrewj
 * midnight due dates
 * MLA style
 
-### Links
+## Links
 
 * [arthistoryresources.net](http://arthistoryresources.net/)
 * [metmuseum.org](http://metmuseum.org/toah)
 * [artcyclopedia.com](http://artcyclopedia.com/)
 
-## Topics
+## -isms
 
-### -isms
-
-#### Naturalism
+### Naturalism
 
 old school christian art, depict things as "we" see them, totes subjective
 
-#### Idealism
+### Idealism
 
 Abercrombie; god; the king
 
-#### Realism
+### Realism
 
 Depicts things as they appear, historically not very popular
 
-#### Expressionism
+### Expressionism
 
 Strategizes for emotion
 
-#### Illusionism
+### Illusionism
 
 Hyper-realism; sidewalk guy. Very rare.
 
-#### Romanticism
+### Romanticism
 
 Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subjective.
 
-### Prehistory: 40,000 BCE => 30,000 BCE
+## Prehistory: 40,000 BCE => 30,000 BCE
 
-#### info
+### info
 
 * peeps were nomadic
 * "cavemen" is a myth: lived in caves only on rainy days
@@ -60,7 +58,7 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 	* maybe to document success?
 	* who knows.
 	
-#### art
+### art
 
 * Venus Of Willendorf 
 	* ![venus](http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Venus_von_Willendorf_01.jpg/200px-Venus_von_Willendorf_01.jpg) 
@@ -74,9 +72,9 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 	* Holding Bison Horn (penis) 
 	* or crescent moon (cuz moon = menstruation cycle)
 
-### Mesolithic!: 8,000 BCE => 6,000/4,000 BCE
+## Mesolithic!: 8,000 BCE => 6,000/4,000 BCE
 
-#### info
+### info
 
 * nomads kept coming back to the same place, invented:
 	* agriculture
@@ -106,7 +104,7 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 	* sacred space
 	* anything bigger than a person-sized hut is monumental
 	
-#### art
+### art
 
 * female statuette 
 	* ![female statuette](http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/FemaleStatuetteSamarra6000BCE.jpg/319px-FemaleStatuetteSamarra6000BCE.jpg) 
@@ -137,9 +135,9 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 	* nose
 		* cuz that's where the spirit comes in/out
 
-### Neolithic (New Stone Age): 6,000/4,000 BCE => 2,000 BCE
+## Neolithic (New Stone Age): 6,000/4,000 BCE => 2,000 BCE
 
-#### info
+### info
 
 * Development of **cultures** (as opposed to towns)
 * **forging** of copper weapons
@@ -171,14 +169,14 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 * __*Du et Des*__
 	* I give so that you (gods) give
 
-#### places
+### places
 
 * Schematic reconscrution drawing of a section of Level VI, **Çatal Höyük**, Turkey 
 	* ![catal hoyuk](http://www.veeb.net/wp-content/uploads/2011/01/Catal_Hoyuk_Reconstruction.jpg) 
 	* all buildings connected internally, no streets or exterior doors
 		* streets are horrible for defense
 
-#### art
+### art
 
 * Menhir 
 	* ![menhir](http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Menhir_du_Champ_Dolent.jpg/220px-Menhir_du_Champ_Dolent.jpg) 
@@ -212,9 +210,9 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 	* very echoey / acoustic design
 		* big echo chamber
 		
-### Ancient Near Eastern Art: Mesopotamia: 5,000 BCE => 331 BCE
+## Ancient Near Eastern Art: Mesopotamia: 5,000 BCE => 331 BCE
 
-#### info
+### info
 
 * Land between two rivers
 * the zone between the tigris and euphrates rivers, and the black sea and persian gulf
@@ -251,7 +249,7 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 * very very opulent culture
 	* when the greeks came in they thought mesopotamian men were effeminate cuz makeup, scented oils, fancy outfits
 			
-#### List of Cultures of Mesopotamia:
+### List of Cultures of Mesopotamia:
 
 * Sumer
 * Akkad
@@ -266,7 +264,7 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 * persia
 	* greeks called them Achæmenids
 	
-#### places
+### places
 
 * citadel of sargon ii
 	* ![citadel](http://i646.photobucket.com/albums/uu185/marinasamedi/recondrawing.jpg)
@@ -282,7 +280,7 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 			* got drunk with some concubines who were like "hey so you know how you own the whole world? who needs this city!" so he burned it down completely. 
 			* VERY MUCH not his style: he was *that* hammered.
 
-#### art
+### art
 
 * female head (inanna?)
 	* ![inanna?](http://www.uned.es/geo-1-historia-antigua-universal/new%20website/IRAK/2-3inanna.jpg) 
