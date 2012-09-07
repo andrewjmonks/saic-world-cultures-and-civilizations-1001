@@ -14,9 +14,9 @@ You can find the most recent version of this document [on Github](http://andrewj
 
 ### Links
 
-* http://arthistoryresources.net/
-* http://metmuseum.org/toah
-* http://artcyclopedia.com/
+* [arthistoryresources.net](http://arthistoryresources.net/)
+* [metmuseum.org](http://metmuseum.org/toah)
+* [artcyclopedia.com](http://artcyclopedia.com/)
 
 ## Topics
 
