@@ -1,5 +1,11 @@
 # Art History: 40,000 BCE => 18xx
 
+## Andrew Monks
+
+These are my notes for World Cultures And Civilizations 1001 at [SAIC](http://saic.edu).
+
+You can find the most recent version of this document [on Github](http://andrewjmonks.github.com/saic-world-cultures-and-civilizations-1001/)
+
 ## General
 
 * final is not cumulative
