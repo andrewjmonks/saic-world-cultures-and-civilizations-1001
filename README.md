@@ -457,20 +457,71 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 
 #### ARCHAIC
 
+* the most formative period in Greek art
+* Archaic comes from "archaeos" which means "first" thus "archaeology" is the study of first-things
+* got over orientalism and started doin' their own thing
+* architecture hadn't gone Greek yet
+	* still into frontality (inhereted from near east)
+	* thick (crappy) local stone
+	* not really balanced
+
 #### CLASSICAL
 
 #### HELLENISTIC
 
-* 
+* they all ate at Helen's
 
 ### info
 
-* stuff
+* stuff about gender politics:
+	* fun fact: "gymnasium" comes from "gymnos" which means "naked"
+	* revelling in athletic male nude form
+	* greeks weren't so into women: "hysterical" comes from "hysterion" meant uterus.
+	* they didn't have a word for homosexual, but it was pretty normal for dudes in school to get a lil crazy in the locker room, but were generally expected to get over it in their mid 20s
+		* women were probs doing the same thing, but they didn't stuff down so we don't know for sure
+			* except, of course, sappho
+				* she was an excellent poet, taught poetry, and she wrote love poems for her students. She was from Lebsos, sooo…
 
 ### places
 
 * places
 
 ### art
-
-* arts
+* **GEOMETRIC** krater
+	* ![geometric krater](http://www.westcler.org/GH/curlessmatt/arthistory/4/GeometricVase.jpg)
+	* they used it to hold their wine which they LITERALLY MIXED WITH OPIUM
+		* AND STARTED DRINKING IT WHEN THEY WERE 3 YEARS OLD
+			* WINE MIXED WITH OPIUM
+				* WHICH KILLS YOU
+					* but not as much as roman wine, which they sweetened with FUCKING LEAD
+	* top row: dead guy on top of bier (fancy king bed) with lots of women lined up to stare at his corpse
+		* you can tell they're women because their hands were on their hair; back in the day women mourned by ripping off their clothes and pulling their hair out
+			* a bunch of the women were probably from the dude's family, but a bunch were probably *hired mourners*
+	* bottom row: a bunch of army men with weird hourglass-shaped shields, SUPER-STYLIZED horses with way too many legs
+		* funeral games: when someone important died the survivors liked to play a lot of sports. this is how the olympics started.
+* Hero And Centaur
+	* ![hero and centaur](http://www.proprofs.com/flashcards/upload/q8676443.jpg)
+	* maybe herakles and nessos?
+	* heroes were like old-school a$ap rocky / shaq / whomever
+		* idolized and shit cuz they didn't have tv
+	* they hadn't really figured out the whole centaur thing yet, so it was p much just a dude with a horse sticking out of his back (rather than a horse with a dude sticking out of his front)
+	* lump on centaur's left is the extra bronze from where they poured it into the mold
+* Kouros of dude
+	* ![kouros](http://www.theslideprojector.com/images/ancientcivilizations/greece/statuary/kouros.jpg)
+	* **ARCHAIC** kouros: memorial of a dude with sweet dreads
+	* more idealism, perfection < big thing for the greeks
+	* corners of mouth slightly raised: **Archaic Grin**
+	* big almondy eyes pinched at corners
+	* "runners girdle" lines pointing at penis
+		* greeks kept this one up for a good long time
+* Moschophoros
+	* ![moschophoros](http://www.fransite.net/Klassiek/Grieks/kunst/Calf%20Bearer%20(Moschophoros),%20dedicated%20by%20Rhonbos%20on%20the%20Acropolis,%20Athens,%20Greece,%20ca.%20560%20BCE.jpg)
+	* another kouros
+	* moschophoros means calf bearer
+	* dedicated by Rhonbos on the Acropolis
+	* artists hadn't invented live models yet, so artists studied a lot and got the gist and then went home to sculpt happy dudes in robes with nice muscles
+* Athena
+	* ![athena](http://upload.wikimedia.org/wikipedia/commons/e/e1/ACMA_679_Kore_1.JPG)
+	* greeks were seriously not into women. We know it's athena cuz she has a spear, and *this* is how they chose to depict her
+	* super androgynous
+	* more dreads
