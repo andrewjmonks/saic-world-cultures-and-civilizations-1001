@@ -353,6 +353,7 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 	* depicts king followed by eunuch (no beard) archer
 		* eunuch means he was conditioned from youth to be an administrator/advisor
 		* archer cuz eunuchs had that kinda build
+
 * ishtar gate
 	* ![gate](http://www.westcler.org/gh/curlessmatt/arthistory/2a/IshtarGate1.jpg)
 	* made by Nebuchadnezzar
@@ -361,3 +362,79 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 	* glazed brick
 	* Babylon, Iraq
 	* entrance to the city of Babylon
+
+## egypt real quick
+
+* the pyramids were built by conscripted peasants, not slaves. **ON EXAM.** 
+	* they had to work real hard but they also got dat *respek*
+	* also they were paid food and beer (cuz money wasn't really a thing at the time)
+	* and that's why the old kingdom went bankrupt and failed
+
+## da greekz! *this was when everyhting changed* 
+
+### info
+
+* they made idealist sculptures of men!
+* they pretty much invented modern post-renaissance culture
+* if you were the king and you signed a treaty with another king you'd trade some daughters (as concubines) and then stop fighting cuz family!
+
+## places
+
+* the cyclades!
+	* they use local marble and stone to make people
+	* their people were depicted in a distinct way that's still p trendy
+* the minoans!
+	* extremely chill dudes
+	* posted up in Crete
+	* they liked to hang out on boats.
+		* they were pretty much in charge of the ocean, they traded like crazy, had boss navies, and generally rocked it out.
+	* art was influenced by the sea: saturated primary colors, fluid lines, playful and childlike tone
+	* they rocked two written languages: linear A, and linear B.
+		* we can't read linear A, but we can read linear B.
+	* pretty casual about clothes (or lack thereof)
+	* King Minos was in charge
+		* according to greeks a buncha years later, he forgot to do some sacrifices or some shit and the gods got pissy and made his wife fall for a bull and their baby was the MINOTAUR!
+		* they kept him in the castle, which was sooooo complex (1200 years of kings each adding their own shit) that l8r greeks thought it was a labyrinth
+	* ![minoan column](http://preview.turbosquid.com/Preview/Content_2010_07_13__16_08_12/01.png9016a9a0-996b-4135-ace5-bc948bb71afaLarger.jpg)
+		* their columns were ice-cream-conical, usually with thingies on top.
+			* maybe cuz earthquakes?
+	* literally atlantis: the whole island sank overnight cuz volcanoes suck, they were wayyyyy more advanced than anyone else in the area when it happened. plato wrote about this a thousand years later
+* the mycenaeans!
+	* huge assholes, opposite of minoans
+	* super land-based
+	* cities with walls around 'em
+	* warrior kings
+	* they weren't really into art…
+	* their architecture was lazy, boring, and generally unimpressive
+
+## art
+* Cycladean Lady
+	* ![cycladean lady](http://www.proprofs.com/flashcards/upload/q9004127.jpg)
+	* from the **cyclades** and depicted in traditional cycladean style
+	* figures like this were often buried with people (cuz what's heaven without *bitches,* man
+* Cycladean Lyre Player
+	* ![cycladean lyre player](http://www.freewebs.com/konscience/photos/My%20Trips/Gettyvilla%20(23).jpg)
+	* the royal harpist (u kno he's royal cuz he gets a chair)
+	* buried with the king so he could enjoy some music with his afterlife concubines.
+* Minoan Snake Goddess
+	* ![minoan snake goddess](http://employees.oneonta.edu/farberas/arth/Images/ARTH209images/minoan/snake_goddess.jpg)
+	* **minoan** lady from the palace at knossos (crete), 1600 bce
+		* either the snake goddess or a priestess of the snake goddess
+	* recognized that women meant bizness as much as men
+	* big white breasts cuz milk
+	* vagina icons over relevant region of dress
+	* red yellow and blue (primary colors)
+	* cat (or rabbit, hard to tell) on her head cuz cats and rabbits bang a lot
+	* holding snakes (penises) cuz she's *in charge*
+* Lady Jumping Over Bull
+	* ![lady jumping over bull](http://www.mlahanas.de/Greeks/Arts/Minoan/BullJumping.jpg) 
+	* ok this one's some serious shit. the lady grabs the bull by the horns (penis), JUMPS AND DOES A BACKFLIP onto the bull, then jumps again and lands behind it. LIKE A BOSS.
+	* **TRUE FRESCO** means fresco painted on **wet** plaster, took a year to dry but colors stayed forever
+		* michaelangelo did this also
+* Flotilla
+	* ![flotilla](http://2guysreadinggibbon.files.wordpress.com/2010/02/thera-miniature-frieze-the-flotilla.jpg)
+	* trading ship (cuz no shields)
+	* also jumping (flying?) dolphins cuz they protect sailors
+* Landscape With Swallows
+	* ![landscape with swallows](http://apah.lakegeneva.badger.groupfusion.net/modules/groups/homepagefiles/49961-87537-61074-11.jpg)
+	* serious dr seuss shit right here
