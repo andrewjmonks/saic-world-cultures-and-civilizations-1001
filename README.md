@@ -370,7 +370,7 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 	* also they were paid food and beer (cuz money wasn't really a thing at the time)
 	* and that's why the old kingdom went bankrupt and failed
 
-## da greekz! *this was when everyhting changed* 
+## da greek ISLANDZ! *this was when everyhting changed* 
 
 ### info
 
@@ -378,7 +378,7 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 * they pretty much invented modern post-renaissance culture
 * if you were the king and you signed a treaty with another king you'd trade some daughters (as concubines) and then stop fighting cuz family!
 
-## places
+### places
 
 * the cyclades!
 	* they use local marble and stone to make people
@@ -406,8 +406,9 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 	* warrior kings
 	* they weren't really into art…
 	* their architecture was lazy, boring, and generally unimpressive
+	* they worship an all-powerful sky-god
 
-## art
+### art
 * Cycladean Lady
 	* ![cycladean lady](http://www.proprofs.com/flashcards/upload/q9004127.jpg)
 	* from the **cyclades** and depicted in traditional cycladean style
@@ -437,4 +438,39 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 	* also jumping (flying?) dolphins cuz they protect sailors
 * Landscape With Swallows
 	* ![landscape with swallows](http://apah.lakegeneva.badger.groupfusion.net/modules/groups/homepagefiles/49961-87537-61074-11.jpg)
-	* serious dr seuss shit right here
+	* serious dr seuss shit right hurr
+* Mycenean funeral mask
+	* ![mask](http://www.kmop.gr/en/museum/masks_images/5.jpg)
+	* **myceneans** didn't make much stuff, and when they did make stuff it was for a specific reason. like this funeral mask for the king. You can tell he's the king cuz A) his mask is made of gold (like the sun (like the king)) and B) cuz he has a mane (like a lion (like the sun (like the king)))
+		* official universal animal symbol for king is now the lion instead of the bull. Thanks Myceneans!
+
+## MAINLAND GREECE YO
+
+### FOUR phases of ancient greek art!
+
+#### GEOMETRIC
+
+* simple design and composition
+* hybrid animals (mythical composite figures)
+* Orientalism
+	* in art history, "oriental" refers to the Near East, not the Far East
+
+#### ARCHAIC
+
+#### CLASSICAL
+
+#### HELLENISTIC
+
+* 
+
+### info
+
+* stuff
+
+### places
+
+* places
+
+### art
+
+* arts
