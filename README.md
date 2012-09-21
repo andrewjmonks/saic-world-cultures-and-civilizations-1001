@@ -481,10 +481,21 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 		* women were probs doing the same thing, but they didn't stuff down so we don't know for sure
 			* except, of course, sappho
 				* she was an excellent poet, taught poetry, and she wrote love poems for her students. She was from Lebsos, sooo…
+* "barbus" meant beard (greeks all shaved); anyone who didn't speak greek spoke "barbar"
+	* thus barbarians
+* the only greek painting that survives is painted Vases, and a few etruscan tomb interiors
+	* they also painted on leather, papyrus, and wood
 
 ### places
 
-* places
+* basilica: temple of hera 1
+	* ![basilica](http://www.sacred-destinations.com/italy/paestum-pictures/IMG_2207b.jpg)
+	* **ARCHAIC** architecture from paestum italy
+	* proof that they hadn't really figured out architecture
+* Temple of Aphaia
+	* ![aphaia](http://www.fransite.net/Klassiek/Grieks/kunst/Temple%20of%20Aphaia,%20Aegina,%20Greece,%20ca.%20500-490%20BCE.jpg)
+	* wayyyy better than the basilica
+
 
 ### art
 * **GEOMETRIC** krater
@@ -522,6 +533,36 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 	* artists hadn't invented live models yet, so artists studied a lot and got the gist and then went home to sculpt happy dudes in robes with nice muscles
 * Athena
 	* ![athena](http://upload.wikimedia.org/wikipedia/commons/e/e1/ACMA_679_Kore_1.JPG)
-	* greeks were seriously not into women. We know it's athena cuz she has a spear, and *this* is how they chose to depict her
+	* greeks were seriously not into women.
+	* We know it's athena cuz she has a spear
 	* super androgynous
+	* wearing clothes
 	* more dreads
+* Achilles and Ajax
+	* ![exekias](http://www.fransite.net/Klassiek/Grieks/kunst/Vazen/EXEKIAS,%20Achilles%20and%20Ajax%20playing%20a%20dice%20game%20(detail%20from%20an%20Attic%20black-figure%20amphora),%20from%20Vulci,%20Italy,%20ca.%20540-530%20BCE.jpg)
+	* achilles and ajax hangin' out shootin' craps
+	* another (opium-)wine jar
+	* vase painting represents the beginning of the art market
+		* peeps would sign their work, then get hired again
+		* beginning of art for art's sake (not to glorify gods/king) 
+	* super balanced, almost symetrical
+* Girl Preparing To Bathe
+	* ![girl](http://www.fransite.net/Klassiek/Grieks/kunst/ONESIMOS,%20Girl%20preparing%20to%20bathe%20(interior%20of%20an%20Attic%20red-figure%20kylix),%20from%20Chiusi,%20Italy,%20ca.%20490%20BCE.jpg)
+	* normally it'd be super weird to draw a naked lady
+		* except *on the bottom of wine cups* cuz you only see it when you're drunk anyway
+		* porn for drunk greeks
+* Dying Warrior at Temple Of Aphaia
+	* ![dying warrior from temple](http://a3.ec-images.myspacecdn.com/images02/61/150529cc7a97431485e3aaf8f05970bf/l.jpg)
+	* dying warrior sculpture at temple
+	* sculpture is improving, muscles generally softened (which is good), but they went a bit too hard softening the feet
+	* testicles defy gravity
+	* ![10 years later](http://teachers.sduhsd.k12.ca.us/ltrupe/art%20history%20web/final/chap5Greece/Dying%20Warrior.jpg)
+	* another dying warrior; same temple, 10 years later
+	* SO MUCH BETTER 10 years of improvement
+		* they started to use real models!
+		* testicles no longer magic
+* Kritios boy! (finally)
+	* ![kritios boy](http://media-2.web.britannica.com/eb-media/01/121401-004-1DAB2DBA.jpg)
+	* real small statue
+	* 12-13 years old
+	* more importantly, THE BEGINNING OF WESTERN ART!
