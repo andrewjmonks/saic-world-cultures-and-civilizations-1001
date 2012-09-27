@@ -478,7 +478,7 @@ Expressionism on crack; nostalgic, emotional, fanciful, mysterious, very subject
 	* revelling in athletic male nude form
 	* greeks weren't so into women: "hysterical" comes from "hysterion" meant uterus.
 	* they didn't have a word for homosexual, but it was pretty normal for dudes in school to get a lil crazy in the locker room, but were generally expected to get over it in their mid 20s
-		* women were probs doing the same thing, but they didn't stuff down so we don't know for sure
+		* women were probs doing the same thing, but they didn't write stuff down so we don't know for sure
 			* except, of course, sappho
 				* she was an excellent poet, taught poetry, and she wrote love poems for her students. She was from Lebsos, sooo…
 * "barbus" meant beard (greeks all shaved); anyone who didn't speak greek spoke "barbar"
